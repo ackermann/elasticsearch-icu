@@ -13,7 +13,7 @@ to the public [Docker Hub Registry][registry].
 
 ### Base Docker Image
 
-* [dockerfile/elasticsearch:1.4.4][upstream]
+* [dockerfile/elasticsearch:1.6.2][upstream]
 
 [upstream]: http://dockerfile.github.io/#/elasticsearch
 
