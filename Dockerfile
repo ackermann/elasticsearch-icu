@@ -1,3 +1,3 @@
-FROM elasticsearch:1.4.4
+FROM elasticsearch:1.6.2
 
-RUN plugin install elasticsearch/elasticsearch-analysis-icu/2.4.2
+RUN plugin install elasticsearch/elasticsearch-analysis-icu/2.6.0
